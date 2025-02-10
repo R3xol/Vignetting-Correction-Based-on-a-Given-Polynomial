@@ -15,3 +15,5 @@ Vignetting correction involves modifying the intensity of pixels based on their 
    - Compute the value of the polynomial correction function based on the distance.
    - Multiply the pixel's intensity (or each channel's intensity for RGB images) by the polynomial value.
 6. **Update Pixel Values**: Assign the new intensity values to the pixels.
+
+![Example Image](W_1_corrected.png)
